@@ -824,6 +824,24 @@
 						}
 					],
 					"updated": "25-2-2021"
+				},
+				{
+					"prettyName": "ampControl",
+					"icon": "fa-lightbulb-o",
+					"name": "ampcontrol",
+					"version": "0.0.1",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/system_controller/ampcontrol/ampcontrol.zip",
+					"license": "ISC",
+					"description": "Amp contol plugin",
+					"details": "first cut",
+					"author": "harry63git",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "16-5-2021"
 				}
 			]
 		},
