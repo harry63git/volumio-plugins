@@ -3,7 +3,6 @@
 var libQ = require('kew');
 var fs=require('fs-extra');
 var config = new (require('v-conf'))();
-var exec = require('child_process').exec;
 var execSync = require('child_process').execSync;
 var Gpio = require("onoff").Gpio;
 var io = require('socket.io-client');
